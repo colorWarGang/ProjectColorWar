@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Oficina.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+c:\users\jonnathan\source\repos\project color wars\oficina sdl inputs\oficina\source.cpp(155): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+  Oficina.vcxproj -> C:\Users\Jonnathan\Source\Repos\Project Color Wars\Oficina SDL Inputs\Debug\Oficina Melhor.exe
