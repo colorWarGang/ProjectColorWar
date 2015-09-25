@@ -141,7 +141,7 @@ void Update()
 	posX = posX + velX; 
 	posY = posY + velY;
 	
-	   
+	printf("ola");
 
 	if (cor >= 3)
 		cor = 0;
